@@ -86,3 +86,8 @@ Make your changes, then create a [pull request](https://github.com/lunatic-games
 
 
 [MIT]: http://mit-license.org/
+
+## TODO
+
+ - [ ] Replace Truffle with hardhat.
+ - [ ] Update all the libraries.
